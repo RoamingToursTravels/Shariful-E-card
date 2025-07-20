@@ -18,7 +18,7 @@ const ANIMATION = {
  * Generates and downloads a vCard contact file, with an improved method for iOS.
  */
 function saveContact() {
-    const name = 'MD Shariful Islam';
+    const name = 'Md Shariful Islam';
     const organization = 'Roaming Tours & Travels';
     const title = 'Asst Manager Reservation';
     const officePhone = '01332547031';
