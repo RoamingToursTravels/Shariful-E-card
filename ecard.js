@@ -23,7 +23,7 @@ function saveContact() {
     const title = 'Asst Manager Reservation';
     const officePhone = '01332547031';
     const personalPhone = '01921106989';
-    const email = 'reservatoion.roamingbd@gmail.com';
+    const email = 'reservation.roamingbd@gmail.com';
     const secondaryEmail = '';
     const website = 'https://www.roamingbd.com';
     const address = 'House-25 (2nd Floor), Road-02, Sector-03, opposite of Shopno, Rajlokkhi, Uttara, Dhaka, Bangladesh';
